@@ -154,7 +154,7 @@ h1{
 }
 #loading{
     position: absolute;
-    width: 10%;
+    width: 20%;
     filter: drop-shadow(2px 2px 10px black);
     display: none;
 }
@@ -242,4 +242,9 @@ h1{
 #image {
     width: 85%;
   }
+#loading{
+    position: absolute;
+    width: 50%;
+    filter: drop-shadow(2px 2px 10px black);
+    display: none;}
 }
